@@ -1,0 +1,1531 @@
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojAssemblyReference.cache
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmMain.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FrmTrangchu.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.cache
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDangnhap.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.CopyComplete
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDatphong.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDichvu.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhang.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhangthanthiet.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNhanvien.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhanquyen.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieusuachua.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieuthue.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYLINHKIEN.frmStatis.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThietbi.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhong.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe.licenses
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmHuongdan.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmLienhe.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNoiquykhachsan.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.rpds.resources
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\KHAI PHAM\Desktop\CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDangnhap.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDatphong.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDichvu.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmHuongdan.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhang.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhangthanthiet.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmLienhe.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmMain.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNhanvien.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNoiquykhachsan.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhanquyen.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieusuachua.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieuthue.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThemdichvu.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThietbi.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmTrangchu.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhong.resources
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe.licenses
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.CopyComplete
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Admin\Documents\General Dev_CNPM\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDoanhthu.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDangnhap.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDichvu.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDoanhthu.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmHuongdan.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhang.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhangthanthiet.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmLienhe.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmMain.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNhanvien.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNoiquykhachsan.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhanquyen.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieusuachua.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieuthue.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThietbi.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmTrangchu.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhong.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe.licenses
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDatPhongMain.resources
+C:\Users\huybe\OneDrive\Máy tính\Project_CNPM-main\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThemDV.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDangnhap.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDatPhongMain.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDichvu.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDoanhthu.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmHuongdan.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhang.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhangthanthiet.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmLienhe.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmMain.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNhanvien.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNoiquykhachsan.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhanquyen.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieusuachua.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieuthue.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThemDV.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThietbi.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmTrangchu.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhong.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\huybe\OneDrive\Máy tính\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe.licenses
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDangnhap.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDatPhongMain.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDichvu.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDoanhthu.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmHuongdan.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhang.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhangthanthiet.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmLienhe.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmMain.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNhanvien.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNoiquykhachsan.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhanquyen.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieusuachua.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieuthue.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThemDV.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThietbi.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmTrangchu.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhong.resources
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\huybe\OneDrive\Máy tính\Project\Main\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe.licenses
+C:\Users\huybe\OneDrive\Máy tính\Project\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\huybe\OneDrive\Máy tính\Project\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\Project\QLKS_C-Sharp\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form2.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportDichVu.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportKhachHang.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportNhanVien.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportPhieuSuaChua.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportPhieuThue.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportThietBi.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDangnhap.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDatPhongMain.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDichvu.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDoanhthu.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmHuongdan.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhang.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhangthanthiet.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmLienhe.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmMain.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNhanvien.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNoiquykhachsan.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhanquyen.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieusuachua.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieuthue.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThemDV.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThietbi.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmTrangchu.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhong.resources
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe.licenses
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.resx
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.cs
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.Designer.cs
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPdfViewer.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPdfViewer.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\dsaasd\QLKS-V3\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.resx
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.cs
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.Designer.cs
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPdfViewer.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPdfViewer.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form2.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportDichVu.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportKhachHang.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportNhanVien.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportPhieuSuaChua.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportPhieuThue.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportThietBi.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDangnhap.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDatPhongMain.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDichvu.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDoanhthu.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmHuongdan.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhang.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhangthanthiet.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmLienhe.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmMain.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNhanvien.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNoiquykhachsan.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhanquyen.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieusuachua.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieuthue.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThemDV.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThietbi.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmTrangchu.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhong.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe.licenses
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.CopyComplete
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportDoanhThu.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmReportViewer.resources
+C:\Users\Admin\Documents\QLKS-v5.1\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojAssemblyReference.cache
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe.config
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.resx
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.cs
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FormReport\ReportPhieuThue.Designer.cs
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.exe
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\QUANLYKHACHSAN.pdb
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPdfViewer.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPdfViewer.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPdfViewer.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csprojResolveAssemblyReference.cache
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Form2.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportDichVu.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportDoanhThu.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportKhachHang.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportNhanVien.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportPhieuSuaChua.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportPhieuThue.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.FormReport.ReportThietBi.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDangnhap.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDatPhongMain.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDichvu.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmDoanhthu.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmHuongdan.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhang.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmKhachhangthanthiet.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmLienhe.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmMain.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNhanvien.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmNoiquykhachsan.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhanquyen.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieusuachua.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhieuthue.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmReportViewer.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThemDV.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmThietbi.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmTrangchu.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.Properties.Resources.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.frmPhong.resources
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.csproj.GenerateResource.Cache
+C:\Users\huybe\OneDrive\Máy tính\QLKS-VerFull\General Dev_CNPM\QUANLYKHACHSAN\obj\Debug\QUANLYKHACHSAN.exe.licenses
